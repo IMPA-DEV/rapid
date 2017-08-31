@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'DINPro-Bold';
+  src: url('DINPro-Bold.eot');
+  src: url('DINPro-Bold.woff') format('woff'),
+       url('DINPro-Bold.ttf') format('truetype'),
+       url('DINPro-Bold.svg#DINPro-Bold') format('svg'),
+       url('DINPro-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
